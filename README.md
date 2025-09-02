@@ -1,4 +1,4 @@
-# pong
+# Pong
 
 This is a Pong clone created in C++ using SFML and object-oriented programming.
 
