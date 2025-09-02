@@ -1,0 +1,16 @@
+.vs/
+*.vsidx
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.idb
+*.exe
+*.dll
+*.lib
+*.ipch
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
